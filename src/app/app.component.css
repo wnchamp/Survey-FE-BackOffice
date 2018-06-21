@@ -1,0 +1,23 @@
+.btn-header {
+    cursor: pointer;
+    margin-left: 20px;
+    height: 30px;
+}
+
+.btn-header:hover,  {
+    border-bottom: 3px solid #C7C7C7;
+}
+
+.align-center {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.align-signout {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
